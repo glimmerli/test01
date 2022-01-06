@@ -1,6 +1,6 @@
 public class MethodDome02 {
     public static void main(String[] args) {
-        isEvenNumber(5,6);
+        getMAx(5,6);
     }
     // 定义格式
     /*
@@ -8,7 +8,7 @@ public class MethodDome02 {
             return 数据；
             }
      */
-    public static int isEvenNumber(int a,int b){
+    public static int getMAx(int a,int b){
         int max;
         System.out.println((max=a>b?a:b));
         return max;
