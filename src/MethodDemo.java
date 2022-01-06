@@ -1,6 +1,7 @@
 public class MethodDemo {
     public static void main(String[] args) {
         isEvenNumber(9);
+        getMax(5,6);
     }
     //方法格式
 /*    public static void 方法名(){
@@ -16,5 +17,9 @@ public class MethodDemo {
         }else{
             System.out.println("奇数");
         }
+    }
+
+    public static void getMax(int a,int b) {
+        System.out.println(a>b?a:b);
     }
 }
