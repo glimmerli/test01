@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d72ef12b-25bb-4c4c-a5cb-b6fd00c23629" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecreaseFatif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecreaseFatswitch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,24 +37,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1207" />
-          <entry key="txt" value="164" />
+          <entry key="java" value="1652" />
+          <entry key="txt" value="173" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1207" />
-          <entry key="PLAIN_TEXT" value="164" />
+          <entry key="JAVA" value="1652" />
+          <entry key="PLAIN_TEXT" value="173" />
         </counts>
       </usages-collector>
     </session>
@@ -128,11 +129,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayMax.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
               <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DecreaseFatif.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DecreaseFatswitch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -161,6 +180,8 @@
         <option value="$PROJECT_DIR$/src/MethodDome02.java" />
         <option value="$PROJECT_DIR$/src/OverLoad.java" />
         <option value="$PROJECT_DIR$/src/ArrayMax.java" />
+        <option value="$PROJECT_DIR$/src/DecreaseFatif.java" />
+        <option value="$PROJECT_DIR$/src/DecreaseFatswitch.java" />
       </list>
     </option>
   </component>
@@ -177,8 +198,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="921" />
-    <option name="y" value="40" />
+    <option name="x" value="974" />
+    <option name="y" value="32" />
     <option name="width" value="935" />
     <option name="height" value="919" />
   </component>
@@ -200,17 +221,6 @@
             <path>
               <item name="project01" type="b2602c69:ProjectViewProjectNode" />
               <item name="project01" type="462c0819:PsiDirectoryNode" />
-              <item name="day03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project01" type="462c0819:PsiDirectoryNode" />
-              <item name="day03" type="462c0819:PsiDirectoryNode" />
-              <item name="bin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -222,7 +232,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1641544843798" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1641547658765" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -243,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayMax">
+  <component name="RunManager" selected="Application.DecreaseFatswitch">
     <configuration name="ArrayMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayMax" />
       <module name="project01" />
@@ -251,15 +261,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrmax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrmax" />
+    <configuration name="DecreaseFatif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecreaseFatif" />
       <module name="project01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodDemo" />
+    <configuration name="DecreaseFatswitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecreaseFatswitch" />
       <module name="project01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -280,19 +290,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Arrmax" />
-      <item itemvalue="Application.MethodDemo" />
       <item itemvalue="Application.MethodDome02" />
       <item itemvalue="Application.OverLoad" />
       <item itemvalue="Application.ArrayMax" />
+      <item itemvalue="Application.DecreaseFatif" />
+      <item itemvalue="Application.DecreaseFatswitch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecreaseFatswitch" />
+        <item itemvalue="Application.DecreaseFatif" />
         <item itemvalue="Application.ArrayMax" />
         <item itemvalue="Application.OverLoad" />
         <item itemvalue="Application.MethodDome02" />
-        <item itemvalue="Application.MethodDemo" />
-        <item itemvalue="Application.Arrmax" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +316,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641086824531</updated>
-      <workItem from="1641086829320" duration="17307000" />
+      <workItem from="1641086829320" duration="19787000" />
     </task>
     <task id="LOCAL-00001" summary="fist add javatest project">
       <created>1641310877720</created>
@@ -371,11 +381,18 @@
       <option name="project" value="LOCAL" />
       <updated>1641522561176</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="数组 最大值">
+      <created>1641544867979</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641544867979</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17307000" />
+    <option name="totallyTimeSpent" value="19787000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -387,7 +404,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="921" y="40" width="935" height="919" extended-state="0" />
+    <frame x="974" y="32" width="935" height="919" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -395,7 +412,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5008606" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49913943" visible="true" weight="0.232" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49913943" visible="true" weight="0.232" />
       <window_info id="Structure" order="6" sideWeight="0.5008606" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.3299363" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
@@ -403,7 +420,7 @@
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5022388" side_tool="true" weight="0.3290993" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32866243" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.32866243" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
@@ -435,7 +452,8 @@
     <MESSAGE value="带返回值的最大值方法" />
     <MESSAGE value="带返回值的最大值方法 addto 定义格式" />
     <MESSAGE value="方法重载 两个数之和" />
-    <option name="LAST_COMMIT_MESSAGE" value="方法重载 两个数之和" />
+    <MESSAGE value="数组 最大值" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组 最大值" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -450,13 +468,6 @@
             <element signature="e#71#72#0" expanded="true" />
             <element signature="e#114#115#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrmax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -478,14 +489,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MethodDome02.java">
+    <entry file="file://$PROJECT_DIR$/src/Arrmax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#71#72#0" expanded="true" />
-            <element signature="e#98#99#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="400">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -504,10 +518,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayMax.java">
+    <entry file="file://$PROJECT_DIR$/src/MethodDome02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="350">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#71#72#0" expanded="true" />
+            <element signature="e#98#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecreaseFatif.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecreaseFatswitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
