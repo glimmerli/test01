@@ -11,7 +11,7 @@ public class ReverseArr {
 //        }
         reverse(arr);
         printArray(arr);
-    }
+}
     public  static void reverse(int[] arr) {
         for (int start = 0, end = arr.length - 1; start < end; start++, end--) {
             int temp = arr[start];
