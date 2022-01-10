@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d72ef12b-25bb-4c4c-a5cb-b6fd00c23629" name="Default Changelist" comment="遍历ArrayList数据集合">
-      <change afterPath="$PROJECT_DIR$/src/ArrayListDemo.java" afterDir="false" />
+    <list default="true" id="d72ef12b-25bb-4c4c-a5cb-b6fd00c23629" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/li_02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/li_02/StudentManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,30 +32,33 @@
     <session id="428197566">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="18" />
+          <entry key="java" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="18" />
+          <entry key="JAVA" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3742" />
-          <entry key="txt" value="277" />
+          <entry key="java" value="5608" />
+          <entry key="txt" value="289" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3742" />
-          <entry key="PLAIN_TEXT" value="277" />
+          <entry key="JAVA" value="5608" />
+          <entry key="PLAIN_TEXT" value="289" />
         </counts>
       </usages-collector>
     </session>
@@ -62,45 +67,46 @@
     <favorites_list name="project01" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArrayListTest.java">
+        <entry file="file://$PROJECT_DIR$/src/com/li_02/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+            <state relative-caret-position="500">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding>
-                <element signature="e#150#159#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ArrayListDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/li_02/StudentManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="194">
+              <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#222#231#0" expanded="true" />
+                <element signature="method#addStudent#0;class#StudentManager#0" />
+                <element signature="method#delectStudent#0;class#StudentManager#0" />
+                <element signature="method#updateStudent#0;class#StudentManager#0" />
+                <element signature="method#findStudent#0;class#StudentManager#0" />
               </folding>
             </state>
           </provider>
@@ -138,9 +144,11 @@
         <option value="$PROJECT_DIR$/src/com/li_01/Phone.java" />
         <option value="$PROJECT_DIR$/src/StringBuilderDemoConvert.java" />
         <option value="$PROJECT_DIR$/src/StringBuilderResverse.java" />
-        <option value="$PROJECT_DIR$/src/Student.java" />
         <option value="$PROJECT_DIR$/src/ArrayListTest.java" />
         <option value="$PROJECT_DIR$/src/ArrayListDemo.java" />
+        <option value="$PROJECT_DIR$/src/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/li_02/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/li_02/StudentManager.java" />
       </list>
     </option>
   </component>
@@ -157,10 +165,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="974" />
-    <option name="y" value="32" />
-    <option name="width" value="935" />
-    <option name="height" value="919" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -168,7 +175,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -182,16 +188,37 @@
               <item name="project01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="project01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="li_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="li_02" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1641650246907" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1641830309195" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -212,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListDemo">
+  <component name="RunManager" selected="Application.StudentManager">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListDemo" />
       <module name="project01" />
@@ -222,13 +249,6 @@
     </configuration>
     <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListTest" />
-      <module name="project01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseArr" />
       <module name="project01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -248,20 +268,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.li_02.StudentManager" />
+      <module name="project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ReverseArr" />
       <item itemvalue="Application.StringBuilderDemoConvert" />
       <item itemvalue="Application.StringBuilderResverse" />
       <item itemvalue="Application.ArrayListTest" />
       <item itemvalue="Application.ArrayListDemo" />
+      <item itemvalue="Application.StudentManager" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentManager" />
         <item itemvalue="Application.ArrayListDemo" />
         <item itemvalue="Application.ArrayListTest" />
         <item itemvalue="Application.StringBuilderResverse" />
         <item itemvalue="Application.StringBuilderDemoConvert" />
-        <item itemvalue="Application.ReverseArr" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +308,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641086824531</updated>
-      <workItem from="1641086829320" duration="33020000" />
+      <workItem from="1641086829320" duration="33281000" />
+      <workItem from="1641698179557" duration="1443000" />
+      <workItem from="1641819561543" duration="7672000" />
     </task>
     <task id="LOCAL-00001" summary="fist add javatest project">
       <created>1641310877720</created>
@@ -410,11 +445,18 @@
       <option name="project" value="LOCAL" />
       <updated>1641648558211</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="遍历ArrayList数据集合三个学生输入的信息">
+      <created>1641650304983</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1641650304983</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33020000" />
+    <option name="totallyTimeSpent" value="42396000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -426,7 +468,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="974" y="32" width="935" height="919" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -434,20 +476,20 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5008606" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49913943" visible="true" weight="0.232" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49913943" visible="true" weight="0.23304157" />
       <window_info id="Structure" order="6" sideWeight="0.5008606" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3299363" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4977612" weight="0.32611465" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4977612" weight="0.3253012" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5022388" side_tool="true" weight="0.3290993" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32866243" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.32858709" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" x="338" y="379" width="1340" height="285" id="TODO" order="10" sideWeight="0.5022388" weight="0.3290993" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3299363" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -458,6 +500,36 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5008606" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49913943" visible="true" weight="0.23304157" />
+      <window_info id="Structure" order="6" sideWeight="0.5008606" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4977612" weight="0.3253012" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5022388" side_tool="true" weight="0.3290993" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32866243" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" x="338" y="379" width="1340" height="285" id="TODO" order="10" sideWeight="0.5022388" weight="0.3290993" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3299363" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.18208955" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32985073" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -483,7 +555,8 @@
     <MESSAGE value="StringBuilder 互相转换 String" />
     <MESSAGE value="StringBuilderReverse" />
     <MESSAGE value="遍历ArrayList数据集合" />
-    <option name="LAST_COMMIT_MESSAGE" value="遍历ArrayList数据集合" />
+    <MESSAGE value="遍历ArrayList数据集合三个学生输入的信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="遍历ArrayList数据集合三个学生输入的信息" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -501,13 +574,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/getMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getMax.java" />
     <entry file="file://$PROJECT_DIR$/src/MethodDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -623,15 +690,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
           <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -640,18 +707,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li_02/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding>
-            <element signature="e#150#159#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayListDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/li_02/StudentManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="194">
+          <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#222#231#0" expanded="true" />
+            <element signature="method#addStudent#0;class#StudentManager#0" />
+            <element signature="method#delectStudent#0;class#StudentManager#0" />
+            <element signature="method#updateStudent#0;class#StudentManager#0" />
+            <element signature="method#findStudent#0;class#StudentManager#0" />
           </folding>
         </state>
       </provider>

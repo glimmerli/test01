@@ -7,7 +7,7 @@ public class Student {
         //有参构造方法
     }
     public Student(String name,int age){
-        this.age=age;
+        this.age=age; 
         this.name=name;
         }
 
