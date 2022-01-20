@@ -22,5 +22,16 @@ public class CollectionDemo {
             Student s = it.next();
             System.out.println(s.getName()+","+s.getAge());
         }
+        System.out.println("--------");
+        //遍历集合（for循环）
+        for(int i=0;i<c.size();i++){
+            Student s = ((ArrayList<Student>) c).get(i);
+            System.out.println(s.getName()+","+s.getAge());
+        }
+        System.out.println("-------");
+        //遍历集合 （增强for循环）
+        for(Student s: c){
+            System.out.println(s.getName()+","+s.getAge());
+        }
     }
 }
