@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d72ef12b-25bb-4c4c-a5cb-b6fd00c23629" name="Default Changelist" comment="TreeSet 比较器Comparator排序">
-      <change afterPath="$PROJECT_DIR$/src/com/li_17/Generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/li_17/GenericDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/li_17/Genericmpl.java" afterDir="false" />
+    <list default="true" id="d72ef12b-25bb-4c4c-a5cb-b6fd00c23629" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/li_18/MapDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/li_18/MapDemo02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -44,24 +43,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="81" />
+          <entry key="java" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="81" />
+          <entry key="JAVA" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="10782" />
-          <entry key="txt" value="420" />
+          <entry key="java" value="11229" />
+          <entry key="txt" value="424" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10782" />
-          <entry key="PLAIN_TEXT" value="420" />
+          <entry key="JAVA" value="11229" />
+          <entry key="PLAIN_TEXT" value="424" />
         </counts>
       </usages-collector>
     </session>
@@ -71,31 +70,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/li_17/GenericDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/li_17/Generic.java">
+        <entry file="file://$PROJECT_DIR$/src/com/li_18/MapDemo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/li_17/Genericmpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            <state relative-caret-position="425">
+              <caret line="18" column="28" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="18" selection-end-column="28" />
               <folding>
-                <element signature="e#147#148#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/li_18/MapDemo02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,8 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ArrayListTest.java" />
-        <option value="$PROJECT_DIR$/src/ArrayListDemo.java" />
         <option value="$PROJECT_DIR$/src/Student.java" />
         <option value="$PROJECT_DIR$/src/com/li_02/Student.java" />
         <option value="$PROJECT_DIR$/src/com/li_02/StudentManager.java" />
@@ -171,6 +162,8 @@
         <option value="$PROJECT_DIR$/src/com/li_17/Generic.java" />
         <option value="$PROJECT_DIR$/src/com/li_17/Genericmpl.java" />
         <option value="$PROJECT_DIR$/src/com/li_17/GenericDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/li_18/MapDemo01.java" />
+        <option value="$PROJECT_DIR$/src/com/li_18/MapDemo02.java" />
       </list>
     </option>
   </component>
@@ -220,7 +213,7 @@
               <item name="project01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="li_17" type="462c0819:PsiDirectoryNode" />
+              <item name="li_18" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -233,7 +226,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1642779435887" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1642782687999" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -254,20 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericDemo">
-    <configuration name="CollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.li_14.CollectionDemo" />
-      <module name="project01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.li_14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MapDemo02">
     <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.li_17.GenericDemo" />
       <module name="project01" />
@@ -281,12 +261,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TeacherTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.li_13.TeacherTest" />
+    <configuration name="MapDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.li_18.MapDemo01" />
       <module name="project01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.li_13.*" />
+          <option name="PATTERN" value="com.li_18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.li_18.MapDemo02" />
+      <module name="project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,19 +314,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TeacherTest" />
-      <item itemvalue="Application.CollectionDemo" />
       <item itemvalue="Application.TreeSetDemo" />
       <item itemvalue="Application.TreeSetDemo (1)" />
       <item itemvalue="Application.GenericDemo" />
+      <item itemvalue="Application.MapDemo01" />
+      <item itemvalue="Application.MapDemo02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapDemo02" />
+        <item itemvalue="Application.MapDemo01" />
         <item itemvalue="Application.GenericDemo" />
         <item itemvalue="Application.TreeSetDemo (1)" />
         <item itemvalue="Application.TreeSetDemo" />
-        <item itemvalue="Application.CollectionDemo" />
-        <item itemvalue="Application.TeacherTest" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +346,7 @@
       <workItem from="1641956101933" duration="758000" />
       <workItem from="1641984894285" duration="2865000" />
       <workItem from="1642391734960" duration="28664000" />
-      <workItem from="1642727642506" duration="9876000" />
+      <workItem from="1642727642506" duration="11870000" />
     </task>
     <task id="LOCAL-00001" summary="fist add javatest project">
       <created>1641310877720</created>
@@ -593,11 +586,18 @@
       <option name="project" value="LOCAL" />
       <updated>1642764523084</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="泛型接口">
+      <created>1642779479450</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1642779479450</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84580000" />
+    <option name="totallyTimeSpent" value="86574000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -679,7 +679,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="方法重载 两个数之和" />
     <MESSAGE value="数组 最大值" />
     <MESSAGE value="星期数" />
     <MESSAGE value="不死神兔" />
@@ -704,7 +703,8 @@
     <MESSAGE value="集合的遍历" />
     <MESSAGE value="TreeSet 自然排序" />
     <MESSAGE value="TreeSet 比较器Comparator排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="TreeSet 比较器Comparator排序" />
+    <MESSAGE value="泛型接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="泛型接口" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -723,20 +723,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/li_03/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_03/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/li_03/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1119,7 +1105,27 @@
     <entry file="file://$PROJECT_DIR$/src/com/li_17/GenericDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li_18/MapDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li_18/MapDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
