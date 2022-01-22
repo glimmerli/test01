@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d72ef12b-25bb-4c4c-a5cb-b6fd00c23629" name="Default Changelist" comment="Map集合的遍历两种方法">
-      <change afterPath="$PROJECT_DIR$/src/com/li_18/li_18_02/HashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/li_18/li_18_02/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/li_18/li_18_03/ArrayListcludeHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/li_18/li_18_03/HashMapcludeArrayList.java" afterDir="false" />
+    <list default="true" id="d72ef12b-25bb-4c4c-a5cb-b6fd00c23629" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/li_18/li_18_04/HashMapDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,24 +42,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="88" />
+          <entry key="java" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="88" />
+          <entry key="JAVA" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="12231" />
-          <entry key="txt" value="438" />
+          <entry key="java" value="12806" />
+          <entry key="txt" value="461" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12231" />
-          <entry key="PLAIN_TEXT" value="438" />
+          <entry key="JAVA" value="12806" />
+          <entry key="PLAIN_TEXT" value="461" />
         </counts>
       </usages-collector>
     </session>
@@ -100,14 +97,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/li_18/li_18_03/HashMapcludeArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="300">
+              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#306#333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/li_18/li_18_04/HashMapDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#423#443#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/li_03/Dog.java" />
         <option value="$PROJECT_DIR$/src/com/li_03/Cat.java" />
         <option value="$PROJECT_DIR$/src/com/li_03/AnimalOperator.java" />
         <option value="$PROJECT_DIR$/src/com/li_03/AnimalDemo.java" />
@@ -183,6 +192,7 @@
         <option value="$PROJECT_DIR$/src/com/li_18/li_18_02/HashMapDemo.java" />
         <option value="$PROJECT_DIR$/src/com/li_18/li_18_03/ArrayListcludeHashMapDemo.java" />
         <option value="$PROJECT_DIR$/src/com/li_18/li_18_03/HashMapcludeArrayList.java" />
+        <option value="$PROJECT_DIR$/src/com/li_18/li_18_04/HashMapDemo.java" />
       </list>
     </option>
   </component>
@@ -199,8 +209,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1097" />
-    <option name="width" value="830" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -234,14 +244,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="li_18" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="project01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="li_18" type="462c0819:PsiDirectoryNode" />
-              <item name="li_18_03" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -253,7 +255,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1642854814499" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1642869550491" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -274,13 +276,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashMapcludeArrayList">
+  <component name="RunManager" selected="Application.HashMapDemo (1)">
     <configuration name="ArrayListcludeHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.li_18.li_18_03.ArrayListcludeHashMapDemo" />
       <module name="project01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.li_18.li_18_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.li_18.li_18_04.HashMapDemo" />
+      <module name="project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li_18.li_18_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,19 +329,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.li_18.MapDemo01" />
-      <module name="project01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.li_18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MapDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.li_18.MapDemo02" />
       <module name="project01" />
@@ -341,19 +343,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MapDemo01" />
       <item itemvalue="Application.MapDemo02" />
       <item itemvalue="Application.HashMapDemo" />
       <item itemvalue="Application.ArrayListcludeHashMapDemo" />
       <item itemvalue="Application.HashMapcludeArrayList" />
+      <item itemvalue="Application.HashMapDemo (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapDemo (1)" />
         <item itemvalue="Application.HashMapcludeArrayList" />
         <item itemvalue="Application.ArrayListcludeHashMapDemo" />
         <item itemvalue="Application.HashMapDemo" />
         <item itemvalue="Application.MapDemo02" />
-        <item itemvalue="Application.MapDemo01" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +375,7 @@
       <workItem from="1641956101933" duration="758000" />
       <workItem from="1641984894285" duration="2865000" />
       <workItem from="1642391734960" duration="28664000" />
-      <workItem from="1642727642506" duration="21243000" />
+      <workItem from="1642727642506" duration="25994000" />
     </task>
     <task id="LOCAL-00001" summary="fist add javatest project">
       <created>1641310877720</created>
@@ -627,11 +629,18 @@
       <option name="project" value="LOCAL" />
       <updated>1642782728799</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="HashMap and ArrayList">
+      <created>1642857246565</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1642857246565</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95947000" />
+    <option name="totallyTimeSpent" value="100698000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -643,7 +652,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1097" y="0" width="830" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -651,7 +660,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5008606" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.73039216" weight="0.31428573" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.73039216" visible="true" weight="0.26477024" />
       <window_info id="Structure" order="6" sideWeight="0.26960784" side_tool="true" weight="0.31428573" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4977612" weight="0.3253012" />
@@ -713,7 +722,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="星期数" />
     <MESSAGE value="不死神兔" />
     <MESSAGE value="arrsum" />
     <MESSAGE value="reverse array" />
@@ -738,7 +746,8 @@
     <MESSAGE value="TreeSet 比较器Comparator排序" />
     <MESSAGE value="泛型接口" />
     <MESSAGE value="Map集合的遍历两种方法" />
-    <option name="LAST_COMMIT_MESSAGE" value="Map集合的遍历两种方法" />
+    <MESSAGE value="HashMap and ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashMap and ArrayList" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -757,13 +766,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/li_04/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/li_04/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -1178,11 +1180,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/li_18/li_18_03/HashMapcludeArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="300">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#306#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li_18/li_18_04/HashMapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#423#443#0" expanded="true" />
           </folding>
         </state>
       </provider>
