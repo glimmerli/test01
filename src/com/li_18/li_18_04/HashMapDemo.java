@@ -33,7 +33,7 @@ public class HashMapDemo {
 
         }
             //遍历HashMap集合，得到健和值，按照要求进行拼接
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder();//拼接
         Set<Character> keySet = hm.keySet();
         for(Character key:keySet){
             Integer value = hm.get(key);
