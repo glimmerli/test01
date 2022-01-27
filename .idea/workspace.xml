@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d72ef12b-25bb-4c4c-a5cb-b6fd00c23629" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/li_19/PokerDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/li_19/PokerDemo02.java" afterDir="false" />
+    <list default="true" id="d72ef12b-25bb-4c4c-a5cb-b6fd00c23629" name="Default Changelist" comment="···">
+      <change afterPath="$PROJECT_DIR$/src/com/li_20/li_20_01/DiGuiDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,24 +42,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="100" />
+          <entry key="java" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="100" />
+          <entry key="JAVA" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="15042" />
-          <entry key="txt" value="497" />
+          <entry key="java" value="15321" />
+          <entry key="txt" value="506" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15042" />
-          <entry key="PLAIN_TEXT" value="497" />
+          <entry key="JAVA" value="15321" />
+          <entry key="PLAIN_TEXT" value="506" />
         </counts>
       </usages-collector>
     </session>
@@ -70,33 +69,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/li_19/PokerDemo01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#137#145#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/li_19/PokerDemo02.java">
+        <entry file="file://$PROJECT_DIR$/src/com/li_20/li_20_01/DiGuiDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#193#210#0" expanded="true" />
-                <element signature="e#278#287#0" expanded="true" />
-                <element signature="e#961#970#0" expanded="true" />
-                <element signature="e#1017#1026#0" expanded="true" />
-                <element signature="e#1073#1082#0" expanded="true" />
-                <element signature="e#1130#1139#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="219">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -120,8 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/li_04/AnimalDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/li_05/Animal.java" />
         <option value="$PROJECT_DIR$/src/com/li_05/AnimalDemo.java" />
         <option value="$PROJECT_DIR$/src/com/li_05/Cat.java" />
         <option value="$PROJECT_DIR$/src/com/li_06/Animal.java" />
@@ -171,6 +146,8 @@
         <option value="$PROJECT_DIR$/src/com/li_18/li_18_06/CollectionsDemo01.java" />
         <option value="$PROJECT_DIR$/src/com/li_19/PokerDemo01.java" />
         <option value="$PROJECT_DIR$/src/com/li_19/PokerDemo02.java" />
+        <option value="$PROJECT_DIR$/src/com/li_20/FileDemo01.java" />
+        <option value="$PROJECT_DIR$/src/com/li_20/li_20_01/DiGuiDemo.java" />
       </list>
     </option>
   </component>
@@ -215,13 +192,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="project01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="li_19" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -233,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1643101704961" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1643260592483" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -254,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PokerDemo02">
+  <component name="RunManager" selected="Application.DiGuiDemo">
     <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.li_18.li_18_05.CollectionsDemo" />
       <module name="project01" />
@@ -281,12 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.li_18.li_18_04.HashMapDemo" />
+    <configuration name="DiGuiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.li_20.li_20_01.DiGuiDemo" />
       <module name="project01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.li_18.li_18_04.*" />
+          <option name="PATTERN" value="com.li_20.li_20_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,19 +291,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HashMapDemo (1)" />
       <item itemvalue="Application.CollectionsDemo" />
       <item itemvalue="Application.CollectionsDemo01" />
       <item itemvalue="Application.PokerDemo01" />
       <item itemvalue="Application.PokerDemo02" />
+      <item itemvalue="Application.DiGuiDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiGuiDemo" />
         <item itemvalue="Application.PokerDemo02" />
         <item itemvalue="Application.PokerDemo01" />
         <item itemvalue="Application.CollectionsDemo01" />
         <item itemvalue="Application.CollectionsDemo" />
-        <item itemvalue="Application.HashMapDemo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +323,7 @@
       <workItem from="1641956101933" duration="758000" />
       <workItem from="1641984894285" duration="2865000" />
       <workItem from="1642391734960" duration="28664000" />
-      <workItem from="1642727642506" duration="43315000" />
+      <workItem from="1642727642506" duration="47860000" />
     </task>
     <task id="LOCAL-00001" summary="fist add javatest project">
       <created>1641310877720</created>
@@ -635,11 +605,18 @@
       <option name="project" value="LOCAL" />
       <updated>1643026105397</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary=" 斗地主">
+      <created>1643101740329</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1643101740329</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118019000" />
+    <option name="totallyTimeSpent" value="122564000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -666,9 +643,9 @@
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5022388" side_tool="true" weight="0.3290993" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.2365827" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.2365827" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.39978093" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" x="338" y="379" width="1340" height="285" id="TODO" order="10" sideWeight="0.5022388" weight="0.32858709" />
@@ -721,7 +698,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="reverse array" />
     <MESSAGE value="类的定义" />
     <MESSAGE value="StringBuilder 互相转换 String" />
     <MESSAGE value="StringBuilderReverse" />
@@ -746,7 +722,8 @@
     <MESSAGE value="HashMap and ArrayList" />
     <MESSAGE value="遍历一个字符串中每个字符的个数" />
     <MESSAGE value="CollectionsDEMO" />
-    <option name="LAST_COMMIT_MESSAGE" value="CollectionsDEMO" />
+    <MESSAGE value=" 斗地主" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 斗地主" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -883,6 +860,18 @@
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/li_19/PokerDemo02.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/li_19/PokerDemo02.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -891,27 +880,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/li_06/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_06/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_07/jumping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/li_07/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -1322,6 +1290,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li_19/PokerDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="62" column="53" selection-start-line="62" selection-start-column="53" selection-end-line="62" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#193#210#0" expanded="true" />
+            <element signature="e#278#287#0" expanded="true" />
+            <element signature="e#961#970#0" expanded="true" />
+            <element signature="e#1017#1026#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1130#1139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/li_19/PokerDemo01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -1333,19 +1317,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_19/PokerDemo02.java">
+    <entry file="file://$PROJECT_DIR$/src/com/li_20/li_20_01/FileDemo01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#193#210#0" expanded="true" />
-            <element signature="e#278#287#0" expanded="true" />
-            <element signature="e#961#970#0" expanded="true" />
-            <element signature="e#1017#1026#0" expanded="true" />
-            <element signature="e#1073#1082#0" expanded="true" />
-            <element signature="e#1130#1139#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="50">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li_20/FileDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li_20/li_20_01/DiGuiDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
         </state>
       </provider>
     </entry>
