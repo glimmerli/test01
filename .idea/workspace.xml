@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d72ef12b-25bb-4c4c-a5cb-b6fd00c23629" name="Default Changelist" comment="···">
-      <change afterPath="$PROJECT_DIR$/src/com/li_20/li_20_01/DiGuiDemo.java" afterDir="false" />
+    <list default="true" id="d72ef12b-25bb-4c4c-a5cb-b6fd00c23629" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/li_20/li_20_01/FileInputStreamDemo01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -42,24 +42,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="103" />
+          <entry key="java" value="105" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="103" />
+          <entry key="JAVA" value="105" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="15321" />
-          <entry key="txt" value="506" />
+          <entry key="java" value="15635" />
+          <entry key="txt" value="521" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15321" />
-          <entry key="PLAIN_TEXT" value="506" />
+          <entry key="JAVA" value="15635" />
+          <entry key="PLAIN_TEXT" value="521" />
         </counts>
       </usages-collector>
     </session>
@@ -69,11 +71,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/li_20/li_20_01/DiGuiDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="325">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="method#getAllFilePath#0;class#DiGuiDemo#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/li_20/li_20_01/FileInputStreamDemo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fos.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileOutputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="212" selection-start-line="212" selection-end-line="212" />
             </state>
           </provider>
         </entry>
@@ -97,8 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/li_05/AnimalDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/li_05/Cat.java" />
         <option value="$PROJECT_DIR$/src/com/li_06/Animal.java" />
         <option value="$PROJECT_DIR$/src/com/li_06/Dog.java" />
         <option value="$PROJECT_DIR$/src/com/li_06/Cat.java" />
@@ -148,6 +181,8 @@
         <option value="$PROJECT_DIR$/src/com/li_19/PokerDemo02.java" />
         <option value="$PROJECT_DIR$/src/com/li_20/FileDemo01.java" />
         <option value="$PROJECT_DIR$/src/com/li_20/li_20_01/DiGuiDemo.java" />
+        <option value="$PROJECT_DIR$/fos.txt" />
+        <option value="$PROJECT_DIR$/src/com/li_20/li_20_01/FileInputStreamDemo01.java" />
       </list>
     </option>
   </component>
@@ -203,7 +238,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1643260592483" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1643301173290" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -224,20 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiGuiDemo">
-    <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.li_18.li_18_05.CollectionsDemo" />
-      <module name="project01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.li_18.li_18_05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FileInputStreamDemo01">
     <configuration name="CollectionsDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.li_18.li_18_06.CollectionsDemo01" />
       <module name="project01" />
@@ -253,6 +275,19 @@
     </configuration>
     <configuration name="DiGuiDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.li_20.li_20_01.DiGuiDemo" />
+      <module name="project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li_20.li_20_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileInputStreamDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.li_20.li_20_01.FileInputStreamDemo01" />
       <module name="project01" />
       <extension name="coverage">
         <pattern>
@@ -291,19 +326,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CollectionsDemo" />
       <item itemvalue="Application.CollectionsDemo01" />
       <item itemvalue="Application.PokerDemo01" />
       <item itemvalue="Application.PokerDemo02" />
       <item itemvalue="Application.DiGuiDemo" />
+      <item itemvalue="Application.FileInputStreamDemo01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileInputStreamDemo01" />
         <item itemvalue="Application.DiGuiDemo" />
         <item itemvalue="Application.PokerDemo02" />
         <item itemvalue="Application.PokerDemo01" />
         <item itemvalue="Application.CollectionsDemo01" />
-        <item itemvalue="Application.CollectionsDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +358,7 @@
       <workItem from="1641956101933" duration="758000" />
       <workItem from="1641984894285" duration="2865000" />
       <workItem from="1642391734960" duration="28664000" />
-      <workItem from="1642727642506" duration="47860000" />
+      <workItem from="1642727642506" duration="54582000" />
     </task>
     <task id="LOCAL-00001" summary="fist add javatest project">
       <created>1641310877720</created>
@@ -612,11 +647,18 @@
       <option name="project" value="LOCAL" />
       <updated>1643101740329</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="File 遍历">
+      <created>1643260766298</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1643260766298</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122564000" />
+    <option name="totallyTimeSpent" value="129286000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -636,7 +678,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5008606" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.73039216" weight="0.26477024" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.73039216" visible="true" weight="0.26477024" />
       <window_info id="Structure" order="6" sideWeight="0.26960784" side_tool="true" weight="0.31428573" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4977612" weight="0.3253012" />
@@ -698,7 +740,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="类的定义" />
     <MESSAGE value="StringBuilder 互相转换 String" />
     <MESSAGE value="StringBuilderReverse" />
     <MESSAGE value="遍历ArrayList数据集合" />
@@ -723,7 +764,8 @@
     <MESSAGE value="遍历一个字符串中每个字符的个数" />
     <MESSAGE value="CollectionsDEMO" />
     <MESSAGE value=" 斗地主" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 斗地主" />
+    <MESSAGE value="File 遍历" />
+    <option name="LAST_COMMIT_MESSAGE" value="File 遍历" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -880,27 +922,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/li_07/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_07/AnimalDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_07/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/li_07/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="485">
@@ -1333,8 +1354,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/li_20/li_20_01/DiGuiDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="325">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="method#getAllFilePath#0;class#DiGuiDemo#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="212" selection-start-line="212" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fos.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li_20/li_20_01/FileInputStreamDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
