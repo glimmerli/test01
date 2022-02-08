@@ -43,7 +43,7 @@ public class FileInputStreamDemo01 {
        */
 //       优化循环
         /*
-        fis.read(); 读数据
+        fis.read( ); 读数据
         by=fis.read(); 把读取到的数据赋值给by
         by!=-1; 判断读取到的数据是否是-1
          */
