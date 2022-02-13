@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d72ef12b-25bb-4c4c-a5cb-b6fd00c23629" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/li_21/CopyFlodersDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/li_21/CopyjavaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/li_22/GuessNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/li_22/ObjectInputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/li_22/ObjectOutputStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/li_22/PropertiesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/li_22/PropertiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/li_22/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/it_01/myThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/it_01/myThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/it_03/SellTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/it_03/SellTicketDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/it_04/SellTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/it_04/SellTicketDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/li_02/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/li_02/MyRunnableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myThread/com/it_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,7 +54,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="136" />
+          <entry key="java" value="147" />
           <entry key="jpg" value="2" />
           <entry key="txt" value="13" />
         </counts>
@@ -61,20 +62,20 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="2" />
-          <entry key="JAVA" value="136" />
+          <entry key="JAVA" value="147" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="21431" />
-          <entry key="txt" value="589" />
+          <entry key="java" value="22119" />
+          <entry key="txt" value="619" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="21431" />
-          <entry key="PLAIN_TEXT" value="589" />
+          <entry key="JAVA" value="22119" />
+          <entry key="PLAIN_TEXT" value="619" />
         </counts>
       </usages-collector>
     </session>
@@ -85,49 +86,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/li_22/ObjectOutputStreamDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/myThread/com/com/it_04/SellTicketDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/li_22/PropertiesDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="100">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/li_22/GuessNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/myThread/com/com/it_04/SellTicket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/li_22/PropertiesTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="475">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -151,16 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/li_13/ScoreException.java" />
-        <option value="$PROJECT_DIR$/src/com/li_13/Teacher.java" />
-        <option value="$PROJECT_DIR$/src/com/li_13/TeacherTest.java" />
-        <option value="$PROJECT_DIR$/src/com/li_14/Student.java" />
-        <option value="$PROJECT_DIR$/src/com/li_14/CollectionDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/li_15/TreeSetDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/li_15/Student.java" />
-        <option value="$PROJECT_DIR$/src/com/li_16/Student.java" />
-        <option value="$PROJECT_DIR$/src/com/li_16/TreeSetDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/li_17/Generic.java" />
         <option value="$PROJECT_DIR$/src/com/li_17/Genericmpl.java" />
         <option value="$PROJECT_DIR$/src/com/li_17/GenericDemo.java" />
         <option value="$PROJECT_DIR$/src/com/li_18/MapDemo01.java" />
@@ -202,6 +163,16 @@
         <option value="$PROJECT_DIR$/src/com/li_22/PropertiesDemo.java" />
         <option value="$PROJECT_DIR$/src/com/li_22/GuessNumber.java" />
         <option value="$PROJECT_DIR$/src/com/li_22/PropertiesTest.java" />
+        <option value="$PROJECT_DIR$/src/myThread/com/it_01.java" />
+        <option value="$PROJECT_DIR$/src/myThread/com/com/it_01/myThread.java" />
+        <option value="$PROJECT_DIR$/src/myThread/com/com/it_01/myThreadDemo.java" />
+        <option value="$PROJECT_DIR$/src/myThread/com/com/li_02/MyRunnable.java" />
+        <option value="$PROJECT_DIR$/src/myThread/com/com/li_02/MyRunnableDemo.java" />
+        <option value="$PROJECT_DIR$/src/myThread/com/com/com/li_03/SellTicket.java" />
+        <option value="$PROJECT_DIR$/src/myThread/com/com/it_03/SellTicketDemo.java" />
+        <option value="$PROJECT_DIR$/src/myThread/com/com/it_03/SellTicket.java" />
+        <option value="$PROJECT_DIR$/src/myThread/com/com/it_04/SellTicketDemo.java" />
+        <option value="$PROJECT_DIR$/src/myThread/com/com/it_04/SellTicket.java" />
       </list>
     </option>
   </component>
@@ -254,14 +225,23 @@
               <item name="project01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="li_21" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project01" type="b2602c69:ProjectViewProjectNode" />
               <item name="project01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="li_22" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="it_03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="it_04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,7 +252,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1644684028576" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1644764494118" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -280,6 +260,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="myThread.com.com.it_04" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -293,7 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PropertiesTest">
+  <component name="RunManager" selected="Application.SellTicketDemo">
     <configuration name="GuessNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.li_22.GuessNumber" />
       <module name="project01" />
@@ -307,38 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.li_22.ObjectInputStreamDemo" />
+    <configuration name="MyRunnableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myThread.com.com.li_02.MyRunnableDemo" />
       <module name="project01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.li_22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ObjectOutputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.li_22.ObjectOutputStreamDemo" />
-      <module name="project01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.li_22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PropertiesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.li_22.PropertiesDemo" />
-      <module name="project01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.li_22.*" />
+          <option name="PATTERN" value="myThread.com.com.li_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,20 +318,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SellTicketDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myThread.com.com.it_03.SellTicketDemo" />
+      <module name="project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myThread.com.com.it_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myThread.com.com.it_01.myThreadDemo" />
+      <module name="project01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myThread.com.com.it_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ObjectOutputStreamDemo" />
-      <item itemvalue="Application.ObjectInputStreamDemo" />
-      <item itemvalue="Application.PropertiesDemo" />
       <item itemvalue="Application.GuessNumber" />
       <item itemvalue="Application.PropertiesTest" />
+      <item itemvalue="Application.myThreadDemo" />
+      <item itemvalue="Application.MyRunnableDemo" />
+      <item itemvalue="Application.SellTicketDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SellTicketDemo" />
+        <item itemvalue="Application.MyRunnableDemo" />
+        <item itemvalue="Application.myThreadDemo" />
         <item itemvalue="Application.PropertiesTest" />
         <item itemvalue="Application.GuessNumber" />
-        <item itemvalue="Application.PropertiesDemo" />
-        <item itemvalue="Application.ObjectInputStreamDemo" />
-        <item itemvalue="Application.ObjectOutputStreamDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +378,7 @@
       <workItem from="1641984894285" duration="2865000" />
       <workItem from="1642391734960" duration="28664000" />
       <workItem from="1642727642506" duration="73718000" />
-      <workItem from="1644023503728" duration="25238000" />
+      <workItem from="1644023503728" duration="32936000" />
     </task>
     <task id="LOCAL-00001" summary="fist add javatest project">
       <created>1641310877720</created>
@@ -703,11 +688,18 @@
       <option name="project" value="LOCAL" />
       <updated>1644300521973</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="ObjectInputStream/OutputStream">
+      <created>1644734106773</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1644734106773</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173660000" />
+    <option name="totallyTimeSpent" value="181358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -789,7 +781,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="遍历ArrayList数据集合" />
     <MESSAGE value="遍历ArrayList数据集合三个学生输入的信息" />
     <MESSAGE value="多态  实例" />
     <MESSAGE value="猫和狗  实例多态版" />
@@ -814,7 +805,8 @@
     <MESSAGE value="File 遍历" />
     <MESSAGE value="FileInputStream 字节流读数据" />
     <MESSAGE value="FileInput/FileOutput" />
-    <option name="LAST_COMMIT_MESSAGE" value="FileInput/FileOutput" />
+    <MESSAGE value="ObjectInputStream/OutputStream" />
+    <option name="LAST_COMMIT_MESSAGE" value="ObjectInputStream/OutputStream" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -971,70 +963,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/li_18/li_18_03/ArrayListcludeHashMapDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_18/li_18_05/CollectionDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/li_18/li_18_05/CollectionsDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_18/li_18_06/CollectionsDemo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_18/li_18_06/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_18/li_18_04/HashMapDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_18/li_18_03/HashMapcludeArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_18/li_18_06/CollectionsDemo02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_18/li_18_02/HashMapDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_18/MapDemo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/li_19/PokerDemo02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="485">
@@ -1317,16 +1245,6 @@
     <entry file="file://$PROJECT_DIR$/fw.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_22/PropertiesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/li_22/ObjectOutputStreamDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -1354,6 +1272,86 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myThread/com/it_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li_22/PropertiesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myThread/com/com/li_02/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myThread/com/com/li_02/MyRunnableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myThread/com/com/it_01/myThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myThread/com/com/com/li_03/SellTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myThread/com/com/it_01/myThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myThread/com/com/it_03/SellTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myThread/com/com/it_03/SellTicketDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myThread/com/com/it_04/SellTicketDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myThread/com/com/it_04/SellTicket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
