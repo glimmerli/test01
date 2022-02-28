@@ -1,12 +1,16 @@
 package myThread.com.com.it_04;
 
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
+
 public class SellTicket implements Runnable{
    private int tickets=100;
-   private  Object obj=new Object(); //Object 表示任意对象
+    private Lock lock=new ReentrantLock();
+
     @Override
     public void run() {
         while (true){
-            synchronized (obj){ //同步代码块synchronized()
+           lock.lock();
             if(tickets>0){
                 //相同的票买了多次
                 try {
@@ -18,7 +22,7 @@ public class SellTicket implements Runnable{
 
                     tickets--;
                 }
-            }
+            lock.unlock();
         }
     }
 }
