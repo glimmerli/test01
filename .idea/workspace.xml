@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d72ef12b-25bb-4c4c-a5cb-b6fd00c23629" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/it_01/myThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/it_01/myThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/it_03/SellTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/it_03/SellTicketDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/it_04/SellTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/it_04/SellTicketDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/li_02/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myThread/com/com/li_02/MyRunnableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myThread/com/it_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,15 +32,16 @@
     <session id="428197566">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.38" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -97,7 +89,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/myThread/com/com/it_04/SellTicket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
+            <state relative-caret-position="500">
               <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
@@ -201,7 +193,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,6 +204,12 @@
               <item name="project01" type="b2602c69:ProjectViewProjectNode" />
               <item name="project01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project01" type="b2602c69:ProjectViewProjectNode" />
@@ -247,12 +244,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1644764494118" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1644764772307" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -379,6 +377,8 @@
       <workItem from="1642391734960" duration="28664000" />
       <workItem from="1642727642506" duration="73718000" />
       <workItem from="1644023503728" duration="32936000" />
+      <workItem from="1645365961937" duration="593000" />
+      <workItem from="1646011834253" duration="462000" />
     </task>
     <task id="LOCAL-00001" summary="fist add javatest project">
       <created>1641310877720</created>
@@ -699,7 +699,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181358000" />
+    <option name="totallyTimeSpent" value="182413000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -719,7 +719,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5008606" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.73039216" visible="true" weight="0.27375567" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.73039216" visible="true" weight="0.28733033" />
       <window_info id="Structure" order="6" sideWeight="0.26960784" side_tool="true" weight="0.31428573" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4977612" weight="0.3253012" />
@@ -1205,13 +1205,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/li_21/Copy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-125">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/li_21/Copy.java" />
     <entry file="file://$PROJECT_DIR$/src/com/li_22/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -1313,13 +1307,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/myThread/com/com/com/li_03/SellTicket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/myThread/com/com/com/li_03/SellTicket.java" />
     <entry file="file://$PROJECT_DIR$/src/myThread/com/com/it_01/myThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1350,7 +1338,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/myThread/com/com/it_04/SellTicket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
+        <state relative-caret-position="500">
           <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
