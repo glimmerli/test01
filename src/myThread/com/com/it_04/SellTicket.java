@@ -10,19 +10,23 @@ public class SellTicket implements Runnable{
     @Override
     public void run() {
         while (true){
-           lock.lock();
-            if(tickets>0){
-                //相同的票买了多次
-                try {
-                    Thread.sleep(100);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
-                System.out.println(Thread.currentThread().getName()+"正在售卖第"+ tickets +"票");
+            try {   //try  finally 块进行锁
+                lock.lock();
+                if (tickets > 0) {
+                    //相同的票买了多次
+                    try {
+                        Thread.sleep(100);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+                    System.out.println(Thread.currentThread().getName() + "正在售卖第" + tickets + "票");
 
                     tickets--;
                 }
-            lock.unlock();
+            }finally {
+                lock.unlock();
+            }
+
         }
     }
 }
